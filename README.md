@@ -1,5 +1,7 @@
 # FinFlow - Digital Banking Backend API
 
+[![CI](https://github.com/NabeelHassanKhan/finflow/actions/workflows/ci.yml/badge.svg)](https://github.com/NabeelHassanKhan/finflow/actions/workflows/ci.yml)
+
 A Spring Boot backend for digital banking: user registration with JWT authentication, account management, account-to-account fund transfers, and transaction history. Built to demonstrate production-style practices: transactional integrity, concurrency control, caching, and clean layered architecture.
 
 ## Tech Stack
